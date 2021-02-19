@@ -1,0 +1,21 @@
+h1{color: rgb(255, 0, 0);}
+
+h2{
+color: blue;
+
+}
+
+.grid{
+display: flex;
+flex-wrap: wrap;
+}
+
+
+
+
+.origami{
+    border-color: chocolate;
+    border-radius:20px ;
+width : 310px;
+    font-family:fantasy  ;
+}
